@@ -31,8 +31,8 @@ const Services = () => {
           <br />
           ispum is simpley dummy text of printing
         </spane>
-        <a href={Resume} download>
-          <button className="button s-button">Download CV</button>
+        <a>
+          <button className="button s-button" onclick()=>{alert ("Hey resume is not available right now you can contact me barkatullahkhan120136@gmail.com")>Download CV</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
       </div>
